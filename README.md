@@ -2,11 +2,11 @@
 
 A Python script to send automated emails using Gmail's SMTP server with customizable subject, body, and recipient lists.
 
-## 📋 Description
+## Description
 
 This script automates the process of sending emails through Gmail using Python's built-in `smtplib` library. It allows you to send personalized emails to multiple recipients with a custom subject and body.
 
-## 🚀 Features
+## Features
 
 - Send emails to multiple recipients simultaneously
 - Customizable email subject and body
@@ -14,7 +14,7 @@ This script automates the process of sending emails through Gmail using Python's
 - Uses Gmail's SMTP server with TLS encryption
 - Simple and easy to modify
 
-## 📦 Prerequisites
+## Prerequisites
 
 Before running this script, make sure you have:
 
@@ -22,7 +22,7 @@ Before running this script, make sure you have:
 - A Gmail account
 - Gmail App Password (regular password won't work)
 
-## 🔧 Installation
+## Installation
 
 1. Clone this repository:
 ```bash
